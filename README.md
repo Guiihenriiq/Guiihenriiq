@@ -8,7 +8,7 @@
       - Sou estudante de Ads 3ºPeríodo
     </td>
     <td style="text-align: right; vertical-align: middle;">
-      <a href="https://app.rocketseat.com.br/me/guiihenriiq"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=guiihenriiq&type=card" width="200" alt="Guilherme Henrique F Santos's Rocket ID"/></a>
+      <a href="https://app.rocketseat.com.br/me/guiihenriiq"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=guiihenriiq&type=card" width="280") alt="Guilherme Henrique F Santos's Rocket ID"/></a>
     </td>
   </tr>
 </table>
