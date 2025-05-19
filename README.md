@@ -13,6 +13,28 @@
   </tr>
 </table>
 
+## **GitHub Statistics**
+
+<div style="display: flex; justify-content: center; align-items: flex-start; gap: 20px">
+  <!-- GitHub Stats -->
+  <div style="display: flex; flex-direction: column; gap: 20px">
+    <a href="https://github.com/Guiihenriiq">
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=Guiihenriiq&show_icons=true&theme=dark&line_height=33&count_private=true"
+        alt="Guilherme Henrique github stats"
+        height="160"
+        width="380"
+      />
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guiihenriiq&langs_count=7&theme=dark&hide_langs_below=1&layout=compact"
+        alt="Linguagens mais usadas"
+        height="150"
+        width="380"
+      />
+    </a>
+  </div>
+</div>
+
 ##
 
 ## Um pouco sobre mim:
