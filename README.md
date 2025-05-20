@@ -18,20 +18,18 @@
 <div style="display: flex; justify-content: center; align-items: flex-start; gap: 20px">
   <!-- GitHub Stats -->
   <div style="display: flex; flex-direction: column; gap: 20px">
-<img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=Guiihenriiq&theme=dark"
-  alt="GitHub Streak Stats"
-  height="160"
-  width="380"
-/>
-
+    <img
+      src="https://github-readme-streak-stats.herokuapp.com/?user=Guiihenriiq&theme=dark"
+      alt="GitHub Streak Stats"
+      height="160"
+      width="380"
+      />
 <img
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guiihenriiq&langs_count=7&theme=dark&hide_langs_below=1&layout=compact"
   alt="Linguagens mais usadas"
-  height="150"
+  height="160"
   width="380"
 />
-
   </div>
 </div>
 
