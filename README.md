@@ -18,31 +18,31 @@
 <div style="display: flex; justify-content: center; align-items: flex-start; gap: 20px">
   <!-- GitHub Stats -->
   <div style="display: flex; flex-direction: column; gap: 20px">
-    <a href="https://github.com/Guiihenriiq">
-      <img
-        src="https://github-readme-stats.vercel.app/api?username=Guiihenriiq&show_icons=true&theme=dark&line_height=33&count_private=true"
-        alt="Guilherme Henrique github stats"
-        height="160"
-        width="380"
-      />
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guiihenriiq&langs_count=7&theme=dark&hide_langs_below=1&layout=compact"
-        alt="Linguagens mais usadas"
-        height="150"
-        width="380"
-      />
-    </a>
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=Guiihenriiq&theme=dark"
+  alt="GitHub Streak Stats"
+  height="160"
+  width="380"
+/>
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guiihenriiq&langs_count=7&theme=dark&hide_langs_below=1&layout=compact"
+  alt="Linguagens mais usadas"
+  height="150"
+  width="380"
+/>
+
   </div>
 </div>
 
 ##
 
 ## Um pouco sobre mim:
-- Iniciei na area da programação por ser apaixonado por matematica e por gostar de solucionar problemas. Trabalho como analista de sistemas da empresa Ciclo Cairu, tenhos conhecimento com React e Banco de dados... Estou atualizando esse git com a promessa de fazer ao menos 3 commits por dia🚦	
+- Iniciei na área da programação por ser apaixonado por matemática e por gostar de solucionar problemas. Trabalho como analista de sistemas na empresa Ciclo Cairu, tenho conhecimento com React e Banco de dados... Estou atualizando esse GitHub com a promessa de fazer ao menos 3 commits por dia🚦	
 
 ##
 
-## Algumas linguages que trabalho: 
+## Algumas linguagens que trabalho: 
 <div>
   <img align="center" alt="Guii-Bd" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" />
   <img align="center" alt="Guii-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
@@ -51,7 +51,7 @@
   <img align="center" alt="Guii-Css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
   <img align="center" alt="Guii-Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
   <img align="center" alt="Guii-Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/quasar/quasar-original-wordmark.svg" />
-  <img align="center" alt="Guii-Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"/>
+  <img align="center" alt="Guii-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"/>
 </div>
 
 ## Onde me encontrar: 
