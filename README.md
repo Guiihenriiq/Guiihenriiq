@@ -19,13 +19,13 @@
   <!-- GitHub Stats -->
   <div style="display: flex; flex-direction: column; gap: 20px">
 
-<img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=Guiihenriiq&theme=dark"
-  alt="GitHub Streak Stats"
-  height="160"
-  width="380"
-  style="max-width: 100%; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);"
-/>
+<a href="https://github.com/Guiihenriiq" target="_blank">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Guiihenriiq&theme=dark"
+    alt="GitHub Streak Stats"
+    style="width: 100%; max-width: 380px; height: auto; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);"
+  />
+</a>
 
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guiihenriiq&langs_count=7&theme=dark&hide_langs_below=1&layout=compact"
