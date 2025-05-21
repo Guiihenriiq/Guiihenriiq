@@ -18,6 +18,7 @@
 <div style="display: flex; justify-content: center; align-items: flex-start; gap: 20px">
   <!-- GitHub Stats -->
   <div style="display: flex; flex-direction: column; gap: 20px">
+
 <img
   src="https://github-readme-streak-stats.herokuapp.com/?user=Guiihenriiq&theme=dark"
   alt="GitHub Streak Stats"
