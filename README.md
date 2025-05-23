@@ -23,8 +23,7 @@
   <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=Guiihenriiq&theme=dark"
     alt="GitHub Streak Stats"
-    style="width: 100%; max-width: 380px; height: auto; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);"
-  />
+style="max-width: 100%; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);"  />
 </a>
 
   <img
